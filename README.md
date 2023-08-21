@@ -4,5 +4,5 @@
 <h3>Primeiro desafio no uso da Linguagem de Programação JS</h3>
 <br>
 <h3>@rodolfomori lançou um desafio de incluir mais moedas em seu ensinamento, e no próximo projeto,</h3><br>
-<h3> tentarei fazer um Conversor de Moedas com troca automatica entre 03 moedas ao mesmo tempo</h3>
+<h3> tentarei fazer um Conversor de Moedas com troca automatica entre 03 moedas ao mesmo tempo.</h3>
 
